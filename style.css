@@ -1,0 +1,23 @@
+body{
+    background-color: aqua;
+}
+
+#cointainer{
+    height: 35px;
+    width: 250px;
+    background-color: azure;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.task{
+   background-color: black;
+   color: white;
+   width: 22.5%;
+   padding: 4px;
+}
+#dlt{
+  margin-left: 8px;
+}
